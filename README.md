@@ -1,2 +1,2 @@
 # Project-Euler
-Solutions to problems found on the Project Euler website.
+My solutions to problems found on the Project Euler website.
